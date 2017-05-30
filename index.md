@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WESOA 2017
+title: WESOACS 2017
 subtitle: 13th International Workshop on Engineering Service-Oriented Applications and Cloud Services (WESOACS17), Malaga, Spain, November 13th 2017
 show-avatar: true
 bigimg:
