@@ -25,4 +25,4 @@ The **workshop schedule** is given as follows:
 
 ## CONDITIONS
 
-At least one author of an accepted paper must register and participate in the workshop. Registration is subject to the terms, conditions and procedure of the main ICSOC conference to be found on their website: [http://www.icsoc.org/](http://www.icsoc.org/
+At least one author of an accepted paper must register and participate in the workshop. Registration is subject to the terms, conditions and procedure of the main ICSOC conference to be found on their website: [http://www.icsoc.org/](http://www.icsoc.org/)
