@@ -56,3 +56,4 @@ The workshop schedule is given as follows:
 - Notification: September 14, 2017
 - Early Registration: September 24, 2017
 - Camera Ready Copy Due: October 1, 2017
+- Workshop Event: November 13, 2017
