@@ -4,7 +4,7 @@ title: Organizers
 show-avatar: true
 ---
 
-For questions please email to the **workshop co-chairs** [chairs at wesoa dot org](mailto:chairs[at]wesoa.org)
+For questions please email to the **workshop co-chairs** [wesoacs17@wesoa.org](mailto:wesoacs17@wesoa.org)
 
 - Andreas S. Andreou, Cyprus University of Technology, CY
 - Luciano Baresi, Politecnico di Milano, IT
