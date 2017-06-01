@@ -49,7 +49,7 @@ avatar: "/img/avatar-icon.png"
 author:
 author:
   name: WESOACS
-  email: chairs@wesoa.org
+  email: wesoacs17@wesoa.org
   twitter: wesoacs2017   # eg. daattali
   #name: Some Person
   #email: "youremail@domain.com"
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.wesoa.org"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "www.wesoa.org/wesoacs17"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
