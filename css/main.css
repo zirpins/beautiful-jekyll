@@ -54,7 +54,10 @@ hr.small {
 
 .main-explain-area {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  padding: 15px inherit;
+  padding-top: 15px;
+  padding-right: inherit;
+  padding-left: inherit;
+  padding-bottom: 15px;
 }
 
 .hideme {
@@ -214,7 +217,7 @@ img {
 .navbar-custom .nav .navlinks-children {
   width: 100%;
   display: none;
-  word-break: break-word;
+  word-break: break-all;
 }
 .navbar-custom .nav .navlinks-container .navlinks-children a {
   display: block;
@@ -352,7 +355,7 @@ footer .theme-by {
   height: 192px;
   width: 192px;
   margin-top: -35px;
-  filter: grayscale(90%);
+  /* filter: grayscale(90%); */
 }
 .post-image:hover {
   filter: grayscale(0%);
