@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 13th International Workshop on Engineering Service-Oriented Applications and Cloud Services (WESOACS17)
-subtitle: In conjunction with ICSOC 2017, Malaga, Spain, November 13th 2017
+title: WESOACS 2017
+subtitle: 13th International Workshop on Engineering Service-Oriented Applications and Cloud Services, Malaga, Spain, November 13th 2017
 show-avatar: true
 bigimg:
   - "/img/9636914400_2de244f142_k.jpg"
