@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Call for Papers
-show-avatar: true
 ---
 
 ## OVERVIEW
