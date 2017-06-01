@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Submission
-show-avatar: true
 ---
 
 Authors are invited to submit original, previously unpublished research papers. Papers should be written in English strictly following Springer LNCS style for all text, references, appendices, and figures. Please, submit papers via the WESOACS conference management tool (available soon) in PDF format. For formatting instructions and templates see the [Springer LNCS author web page](http://www.springer.de/comp/lncs/authors.html)
@@ -26,4 +25,4 @@ The **workshop schedule** is given as follows:
 
 ## CONDITIONS
 
-At least one author of an accepted paper must register and participate in the workshop. Registration is subject to the terms, conditions and procedure of the main ICSOC conference to be found on their website: http://www.icsoc.org/
+At least one author of an accepted paper must register and participate in the workshop. Registration is subject to the terms, conditions and procedure of the main ICSOC conference to be found on their website: [http://www.icsoc.org/](http://www.icsoc.org/
