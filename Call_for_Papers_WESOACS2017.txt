@@ -1,15 +1,15 @@
 ---------------------------------------------------------
-We apologize if you receive multiple copies of this cfp 
+We apologize if you receive multiple copies of this cfp
 ---------------------------------------------------------
 CALL FOR PAPERS:
 
-13th International Workshop on Engineering 
+13th International Workshop on Engineering
 Service-Oriented Applications and Cloud Services (WESOACS17)
 
-In conjunction with ICSOC 2017 
-Málaga, Spain, November 13th 2017 
+In conjunction with ICSOC 2017
+Malaga, Spain, November 13th 2017
 
-Website: http://www.wesoa.org/
+Website: http://www.wesoa.org/wesoacs17
 
 Key dates:
 Submission Deadline: August 14, 2017
@@ -17,102 +17,60 @@ Notification: September 14, 2017
 Early Registration: September 24, 2017
 Camera Ready Copy Due: October 1, 2017
 
-Submission site: http://www.conftool.com/icsoc2017 
-
 OVERVIEW
 
-The WESOACS series of workshops addresses challenges that arise from
-unique characteristics of service-oriented applications by focusing on
-principles, methodologies and tools that support the entire
-service-oriented software development and cloud services lifecycle.
+The WESOA series of workshops addresses challenges that arise from unique characteristics of service-oriented applications with a focus on principles, methodologies and tools that support the entire service-oriented software development lifecycle.
 
-Topics of interest include software service development lifecycle
-methodologies, service-oriented enterprise architectures, service
-engineering for cloud computing environments, models, languages and
-methods for service-oriented analysis and design, agile processes, 
-microservices, agile processes, microservices, continuous delivery, 
-container and cloud technologies, and related topics.
+Topics of general interest include software service development lifecycle methodologies, service-oriented enterprise architectures, service engineering for cloud computing environments, models as well as languages and methods for service-oriented analysis and design.
 
-WESOACS 2017 continues a successful series of ICSOC workshops. Over the
-past decade, WESOA has demonstrated its relevance by attracting a large
-number of contributors and participants from academia as well as
-industry, and producing high-quality papers that were published by
-Springer LNCS series.
+This year, the WESOACS17 workshop adds a specific focus on recent engineering practices of applications and services for cloud environments that follow so called DevOps principles. Topics of specific interest include agile processes, microservices, continuous delivery, container and cloud technologies, as well as related topics.
+
+WESOACS17 continues a successful series of ICSOC workshops. Over the past decade, WESOA has demonstrated its relevance by attracting a large number of contributors and participants from academia as well as industry, and producing high-quality papers that were published by Springer LNCS series.
 
 OBJECTIVES
 
-Service-oriented applications play an important role in many areas like
-enterprise computing, cloud computing and the web. While there is an
-agreement about the main principles for designing and developing such
-applications, methodologies and tools that support the development of
-service-oriented applications are still a subject of intensive research.
+Service-oriented applications play an important role in many areas like enterprise computing, cloud computing and the web. While there is an agreement about the main principles for designing and developing such applications, methodologies and tools that support the development of service-oriented applications are still a subject of intensive research.
 
-During the recent years, there has been a shift towards the DevOps approach 
-to software development, which focuses on a framework where software 
-development and operation processes are continuous and inseparable. 
-DevOps is a growing trend that prescribes management of development and 
-operations activities aiming at faster application delivery with automated 
-release and deployment, promoting a culture among the DevOps teams of close 
-collaboration and communi-cation without silos and barriers between development 
-and operation responsibilities. Agile processes, microservices, continuous 
-delivery, container and cloud technologies are only a few of a list of popular 
-topics that contribute to the current high performance IT transformation. 
-This workshop offers a glimpse at such topics through sessions and keynotes 
-that explore research, experience and practice. In this area, close collaboration 
-between the research community and industry practitioners is essential to 
-develop comprehensive engineering methodologies and tools that support the
-entire lifecycle of service-oriented applications and cloud services.
+Especially during recent years, there has been a shift towards the DevOps approach to software development, which focuses on a framework where software development and operation processes are continuous and inseparable. DevOps is a growing trend that prescribes management of development and operations activities aiming at faster application delivery with automated release and deployment, promoting a culture among the DevOps teams of close collaboration and communication without silos and barriers between development and operation responsibilities.
 
-WESOACS complements ICSOC by focusing on core software engineering issues
-in the context of service-oriented and cloud service systems, keeping pace 
-with emerging application areas of service computing such mobile, social, cloud
-computing, smart environments and IoT.
+Agile processes, microservices, continuous delivery, container and cloud technologies are only a few of a list of popular topics that contribute to the current high performance IT transformation. This workshop offers a glimpse at such topics through sessions and keynotes that explore research, experience and practice.
+
+In this area, close collaboration between the research community and industry practitioners is essential to develop comprehensive engineering methodologies and tools that support the entire lifecycle of service-oriented applications and cloud services. WESOACS complements ICSOC by focusing on core software engineering issues in the context of service-oriented and cloud service systems, keeping pace with emerging application areas of service computing such mobile, social, cloud computing, smart environments and IoT.
 
 TOPICS
 
-WESOACS encourages a transdisciplinary perspective and welcomes papers on
-topics that include, but are not limited to the following:
+WESOACS encourages a trans-disciplinary perspective and welcomes papers on topics that include, but are not limited to the following:
 
 -	Software service development lifecycle methodologies and processes
 -	Distributed and collaborative software service development
 -	Service-oriented reference models and frameworks
--	Architectural styles and standards for software service and cloud systems 
+-	Architectural styles and standards for software service and cloud systems
 -	Management and governance of service engineering and DevOps projects
 -	Models, languages and methods for service-oriented analysis and design
--	Requirements engineering and business process modelling for software service systems
+- Service assembly, composition and aggregation models and languages
+-	Requirements engineering and business process modeling for software service systems
 -	Validation, verification and testing of software service systems
--	Engineering of software services for the cloud
 - Service engineering for context-awareness and mobile devices
 -	Engineering service-oriented applications in social network contexts
 -	Engineering of reactive and event-driven service systems
--	Reliability of cloud-based services
--	Architectures and frameworks for microservices
+- Concepts, technologies and best practices of microservice architectures
 -	Engineering services for the Internet of Things and Big Data
--	Case studies and best practices of service-oriented development
 -	DevOps: Methodologies, techniques, tools and case studies
--	Container Technologies
--	Services Synthesis and Integration
--	Automation of Processes and Tasks (Testing, Reconfiguration, Deployment, Resource Management) 
--	Cloud Resource Management
+-	Automation of Processes and Tasks (Testing, Reconfiguration, Deployment, Resource Management)
 -	Continuous Delivery and Process Improvement
-
+-	Container Virtualization Technologies
+-	Case studies and best practices of service-oriented development
 
 SUBMISSION
 
-Authors are invited to submit original, previously unpublished research
-papers. Papers should be written in English strictly following Springer
-LNCS style for all text, references, appendices, and figures.
-Please, submit papers via the WESOA conference management tool in PDF
-format. For formatting instructions and templates see the Springer Web
-page: http://www.springer.de/comp/lncs/authors.html
+Authors are invited to submit original, previously unpublished research papers. Papers should be written in English strictly following Springer LNCS style for all text, references, appendices, and figures. Please, submit papers via the WESOA conference management tool in PDF format. For formatting instructions and templates see the Springer web page: http://www.springer.de/comp/lncs/authors.html
 
 The following types of submissions are accepted:
 
 - Full research papers and experience papers with a maximum length of 12
 pages, including references and appendices.
 
-- Short papers and position papers with a maximum length of 6 pages, 
-including references and appendices.
+- Short papers and position papers with a maximum length of 6 pages, including references and appendices.
 
 WESOACS proceedings are published in Springer LNCS.
 
@@ -125,6 +83,5 @@ ORGANISERS
 - Guadalupe Ortiz, University of Cadiz, ES
 - Christian Zirpins, Karlsruhe University of Applied Sciences, DE
 
-For questions please email to the workshop chairs: 
-chairs at wesoa dot org
+For questions please email to the workshop chairs: WESOACS17 at wesoa dot org
 _______________________________________________
