@@ -2,8 +2,6 @@
 layout: page
 title: Call for Papers
 show-avatar: true
-bigimg:
-  - "/img/9636914400_2de244f142_k.jpg"
 ---
 
 ## OVERVIEW
