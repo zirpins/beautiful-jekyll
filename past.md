@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paste Editions
+title: Past Editions
 ---
 
 # Past workshops of the WESOA series
