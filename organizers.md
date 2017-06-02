@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Organizers
-show-avatar: true
 ---
 
 For questions please email to the **workshop co-chairs** [wesoacs17@wesoa.org](mailto:wesoacs17@wesoa.org)

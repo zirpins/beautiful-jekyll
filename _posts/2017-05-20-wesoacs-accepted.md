@@ -2,6 +2,7 @@
 layout: post
 title: WESOACS Accepted as an ICSOC Workshop
 ---
-![]({{site.baseurl}}/img/icsoc2017web.png)
 
 We're happy to announce that the WESOA workshop series will be continued at [ICSOC (International Conference on Service-Oriented Computing)](http://www.icsoc.org) this year. Hope to see you in Malaga!
+
+![]({{site.baseurl}}/img/icsoc2017web.png)
