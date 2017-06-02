@@ -454,7 +454,8 @@ footer .theme-by {
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
-  padding: 100px 0;
+  /* wesoacs changed here from "100px 0" */
+  padding: 25px 0 175px;
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
 }
