@@ -510,7 +510,8 @@ footer .theme-by {
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
-    padding: 50px 250px 0px 0px;
+    /* wesoacs changed here from "150px 0" */
+    padding: 50px 0px 250px;
   }
   .intro-header .page-heading h1 {
     font-size: 80px;
