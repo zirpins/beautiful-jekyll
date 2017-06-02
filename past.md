@@ -10,7 +10,7 @@ title: Paste Editions
 - [WESOA'07](http://wesoa07.googlepages.com/)
 - [WESOA'08](http://www.zirpins.de/WESOA08/Overview.html)
 - [WESOA'09](http://www.zirpins.de/WESOA09/Overview.html)
-- [WESOA'10](http://www.zirpins.de/WESOA2010/)
+- [WESOA'10](http://www.zirpins.de/WESOA10/)
 - [WESOA'11](http://www.zirpins.de/WESOA11/)
 - [WESOA'12](http://www.zirpins.de/WESOA12/)
 - [WESOA'13](http://www.zirpins.de/WESOA13/)
