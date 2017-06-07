@@ -34,7 +34,7 @@
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
-		  
+
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
@@ -42,7 +42,15 @@
       </div>
     </div>
   </div>
-  <span class='img-desc'></span>
+  <span class='img-desc'>
+    Von
+    <a href="//commons.wikimedia.org/w/index.php?title=User:Calvin_Kramer&amp;action=edit&amp;redlink=1" class="new" title="User:Calvin Kramer (page does not exist)">
+      Calvin Kramer
+    </a>
+    -
+    <span class="int-own-work" lang="de">Eigenes Werk</span>,
+    <a href="http://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC-BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=42609276">Link</a>
+  </span>
 </div>
 {% endif %}
 <div class="intro-header no-img">
@@ -59,7 +67,7 @@
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
-		  
+
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
