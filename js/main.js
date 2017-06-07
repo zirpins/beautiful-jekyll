@@ -131,6 +131,7 @@ var main = {
   setImg: function(src, desc) {
     $(".intro-header.big-img").css("background-image", 'url(' + src + ')');
     if (typeof desc !== typeof undefined && desc !== false) {
+      $(".img-desc").empty();
       $(".img-desc").append(desc).show();
     } else {
       $(".img-desc").hide();
