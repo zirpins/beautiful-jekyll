@@ -1,9 +1,12 @@
 ---
 layout: page
 title: Submission
+published: true
 ---
 
-Authors are invited to submit original, previously unpublished research papers. Papers should be written in English strictly following Springer LNCS style for all text, references, appendices, and figures. Please, submit papers via the WESOACS conference management tool (available soon) in PDF format. For formatting instructions and templates see the [Springer LNCS author web page](http://www.springer.de/comp/lncs/authors.html)
+Authors are invited to submit original, previously unpublished research papers. Papers should be written in English strictly following Springer LNCS style for all text, references, appendices, and figures. Please, submit papers via the
+[**WESOACS conference management tool**](https://www.conftool.com/wesoacs2017/)
+in PDF format. For formatting instructions and templates see the [Springer LNCS author web page](http://www.springer.de/comp/lncs/authors.html)
 
 The following **types of submissions** are accepted:
 
