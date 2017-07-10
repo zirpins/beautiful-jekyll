@@ -15,7 +15,7 @@ For questions please email to the **workshop co-chairs** [wesoacs17@wesoa.org](m
 
 ## PROGRAM COMMITTEE (to be confirmed)
 - Salima Benbernou, University of Paris Descartes, FR
-- Juan Boubeta, University of Cadiz, ES
+- Juan Boubeta-Puig, University of Cadiz, ES
 - Alena Buchalcevova, Prague University of Economics, CZ
 - Chi-Hung Chi, CSIRO, AU
 - Carmen Constantinescu, Fraunhofer Institute for Industrial Engineering, DE
