@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WESOA becomes WESOAC
+title: WESOA becomes WESOACS
 ---
 
 This years' edition of the WESOA workshop series adds a specific focus on recent engineering practices of applications and services for **cloud environments** that follow so called **DevOps** principles.
