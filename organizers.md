@@ -13,24 +13,20 @@ For questions please email to the **workshop co-chairs** [wesoacs17@wesoa.org](m
 - Guadalupe Ortiz, University of Cadiz, ES
 - Christian Zirpins, Karlsruhe University of Applied Sciences, DE
 
-## PROGRAM COMMITTEE (to be confirmed)
-- Salima Benbernou, University of Paris Descartes, FR
-- Juan Boubeta-Puig, University of Cadiz, ES
+## PROGRAM COMMITTEE
+
+- Juan Boubeta-Puig, University of Cádiz, ES
 - Alena Buchalcevova, Prague University of Economics, CZ
-- Chi-Hung Chi, CSIRO, AU
-- Carmen Constantinescu, Fraunhofer Institute for Industrial Engineering, DE
 - Javier Cubo, University of Malaga, ES
 - Andrea Delgado, Universidad de la República, UY
-- Elisbetta di Nitto, Politecnico di Milano, IT
-- Schahram Dustdar, Technical University of Vienna, AT
-- Frank Leymann, University of Stuttgart, DE
-- Mark Little, Red Hat, US
-- Stephen MacDonell, University of Auckland, NZ
-- Massimo Mecella, Univ. Roma LA SAPIENZA, IT
-- Mike Papazoglou, University of Tilburg, NL
-- Ksenia Podoynitsyna, Eindhoven University of Technology, NL
-- Wolfgang Reisig, Humboldt-University, DE
+- Alfonso Garcia-de-Prado, University of Cádiz, ES
+- Laura González, Universidad de la República, UY
+- Sam Guinea, Politecnico di Milano, IT
+- Kai Jander, University of Hamburg, DE
+- Mark Little, Red Hat, UK
+- Massimo Mecella, SAPIENZA Università di Roma, IT
+- Giovanni Quattrocchi, Politecnico di Milano, IT
+- Wolfgang Reisig, Humboldt-University Berlin, DE
 - Norbert Ritter, University of Hamburg, DE
-- Ioannis Stamelos, Aristotle University of Thessaloniki, GR
-- Erik Wilde, CA Technologies, US
-- Erik Wittern, IBM Watson Research, US
+- Damina Tamburri, DEIB Politecnico di Milano, IT
+- Erik Wittern, IBM T.J. Watson Research Center, US
