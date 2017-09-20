@@ -26,6 +26,10 @@ TU Berlin, Germany
 1: Institute for Applied Informatics (InfAI), Germany; 2: Leipzig University, Germany; 3: Wrocław University of Economics, Poland  
 **Integrating Smart Devices as Business Process Resources – Concept and Software Prototype** (short paper)
 
+*Feuerlicht, George*  
+University of Technology, Sydney, Australia  
+**Architecting Enterprise Applications for Cloud: The Unicorn Cloud Framework**
+
 *Haubeck, Christopher (1); Lamersdorf, Winfried (1); Fay, Alexander (2)*  
 1: University of Hamburg, Germany; 2: Helmut Schmidt University, Germany  
 **A Knowledge Carrying Service-Component Architecture for Smart Cyber Physical Systems: An Example based on self-documenting production systems**
