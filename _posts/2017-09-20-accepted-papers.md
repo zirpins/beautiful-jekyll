@@ -19,11 +19,11 @@ University of Applied Sciences and Arts Hannover, Germany
 **Insurance Use Cases and the Transfer from a Functional to a Service-Oriented Perspective**
 
 *Werner, Sebastian; Pallas, Frank; Bermbach, David*  
-TU Berlin, Germany		
+TU Berlin, Germany		  
 **Designing Suitable Access Control for Web-Connected Smart Home Platforms**
 
 *Wehlitz, Robert (1); Rößner, Ingo (1); Franczyk, Bogdan (2,3)*  
-1: Institute for Applied Informatics (InfAI), Germany; 2: Leipzig University, Germany; 3: Wrocław University of Economics, Poland		
+1: Institute for Applied Informatics (InfAI), Germany; 2: Leipzig University, Germany; 3: Wrocław University of Economics, Poland     
 **Integrating Smart Devices as Business Process Resources – Concept and Software Prototype** (short paper)
 
 *Haubeck, Christopher (1); Lamersdorf, Winfried (1); Fay, Alexander (2)*  
