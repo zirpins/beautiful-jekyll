@@ -6,7 +6,7 @@ published: true
 
 ## Accepted Papers
 
-The 2017 WESOA workshop has attracted a large variety of high-quality submissions. From these the program committee has selected an exiting selection of papers (alphabeticaly ordered):
+WESOACS 2017 has attracted a large variety of high-quality submissions. From these the program committee has selected an exiting selection of papers (alphabeticaly ordered):
 
 - *Delgado, Andrea; González, Laura; Calegari, Daniel*  
 Instituto de Computación, Facultad de Ingeniería, Uruguay  
