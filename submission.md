@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Submission
+title: Submission - WESOACS 2017
 published: true
 ---
 

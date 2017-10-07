@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Past Editions
+title: Past Editions - WESOACS 2017
+published: true
 ---
 
 # Past workshops of the WESOA series

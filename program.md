@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Program
+title: Program - WESOACS 2017
 published: true
 ---
 

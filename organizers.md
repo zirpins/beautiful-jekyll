@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organizers
+title: Organizers - WESOACS 2017
 published: true
 ---
 
