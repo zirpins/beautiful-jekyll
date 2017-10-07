@@ -72,5 +72,4 @@ The workshop agenda is planned as follows. Please refer to the [ICSOC website](h
 |       | **Session 4: Lessons and Experiences** |
 | 16:00 | Jörg Lenhard, *"Lessons Learned from Evaluating Workflow Management Systems"* |
 | 16:30 | Maximilian Vogel, *"Experiences on Migrating RESTful Web Services to GraphQL"* |
-|       | **Session 5: Discussion** |
 | 17:00 | *Open Discussion and Closing of Workshop* |
