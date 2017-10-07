@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Past Editions - WESOACS 2017
+title: Past Editions
 published: true
 ---
 
