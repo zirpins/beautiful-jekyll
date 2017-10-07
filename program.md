@@ -12,8 +12,8 @@ WESOACS 2017 has attracted a large variety of high-quality submissions. From the
 Instituto de Computación, Facultad de Ingeniería, Uruguay  
 **Towards support for collaborative business processes and services with social interactions in a collaborative environment**
 
-- *Feuerlicht, George*  
-University of Technology, Sydney, Australia  
+- *Feuerlicht, George (1); Beranek, Marek (2); Stastny, Marek (2); Kovar, Vladimir (2)*  
+1: UTS, Australia and VSE, Czech Republic; 2: Unicorn, Prague, Czech Republic  
 **Architecting Enterprise Applications for Cloud: The Unicorn Cloud Framework**
 
 - *Haubeck, Christopher (1); Lamersdorf, Winfried (1); Fay, Alexander (2)*  
