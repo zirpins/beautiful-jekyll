@@ -52,8 +52,8 @@ TU Berlin, Germany
 
 The workshop agenda is planned as follows. Please refer to the [ICSOC website](http://www.icsoc.spilab.es/#venue) for venue and directions.
 
-| Time  |         |
-|:------|:--------|
+| Time  |  Sessions |
+|:------|:----------|
 |       | **Session 1: Design and Architecture** |
 | 09:15 | *Welcome* |
 | 09:30 | George Feuerlicht, *"Architecting Enterprise Applications for Cloud: The Unicorn Cloud Framework"* |
