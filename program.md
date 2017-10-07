@@ -48,12 +48,29 @@ University of Duisburg-Essen, Germany
 TU Berlin, Germany  
 **Designing Suitable Access Control for Web-Connected Smart Home Platforms**
 
-## Program Schedule
+## Program Schedule (Monday, 13.11.2017)
+
+The workshop agenda is planned as follows. Please refer to the [ICSOC website](http://www.icsoc.spilab.es/#venue) for venue and directions.
 
 | Time  |         |
 |:------|:--------|
 |       | **Session 1: Design and Architecture** |
-| 09:15 | Welcome |
-| 09:30 | George Feuerlicht, "Architecting Enterprise Applications for Cloud: The Unicorn Cloud Framework" |
-| 10:00 | Stefan Schoenen, "Using Risk Patterns to Identify Violations of Data Protection Policies in Cloud Services" |
+| 09:15 | *Welcome* |
+| 09:30 | George Feuerlicht, *"Architecting Enterprise Applications for Cloud: The Unicorn Cloud Framework"* |
+| 10:00 | Stefan Schoenen, *"Using Risk Patterns to Identify Violations of Data Protection Policies in Cloud Services"* |
 | 10:30 | Coffee Break |
+|       | **Session 2: Cyber Physical Systems** |
+| 11:00 | Daniel J. Rosa-Gallardo, *"Sustainable WAsTe Collection (SWAT): One Step towards Smart and Spotless Cities"* |
+| 11:30 | Christopher Haubeck, *"A Knowledge Carrying Service-Component Architecture for Smart Cyber Physical Systems: An Example based on self-documenting production systems"* |
+| 12:00 | Robert Wehlitz, *"Integrating Smart Devices as Business Process Resources – Concept and Software Prototype"* |
+| 12:30 | Lunch Break |
+|       | **Session 3: Smart and Collaborative Environments** |
+| 14:00 | Sebastian Werner, *"Designing Suitable Access Control for Web-Connected Smart Home Platforms"* |
+| 14:30 | Andrea Delgado, *"Towards support for collaborative business processes and services with social interactions in a collaborative environment"* |
+| 15:00 | Christian Kuster, *"Toward an Interactive Mobility Assistant for Multi-Modal Transport in Smart Cities"* |
+| 15:30 | Coffee Break |
+|       | **Session 4: Lessons and Experiences** |
+| 16:00 | Jörg Lenhard, *"Lessons Learned from Evaluating Workflow Management Systems"* |
+| 16:30 | Maximilian Vogel, *"Experiences on Migrating RESTful Web Services to GraphQL"* |
+|       | **Session 5: Discussion** |
+| 17:00 | *Open Discussion and Closing of Workshop* |
