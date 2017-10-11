@@ -26,8 +26,8 @@ TU Berlin, Germany
 1: Institute for Applied Informatics (InfAI), Germany; 2: Leipzig University, Germany; 3: Wrocław University of Economics, Poland  
 **Integrating Smart Devices as Business Process Resources – Concept and Software Prototype** (short paper)
 
-*Feuerlicht, George*  
-University of Technology, Sydney, Australia  
+*Feuerlicht, George (1); Beranek, Marek (2); Stastny, Marek (2); Kovar, Vladimir (2)*  
+1: UTS, Australia and VSE, Czech Republic; 2: Unicorn, Prague, Czech Republic  
 **Architecting Enterprise Applications for Cloud: The Unicorn Cloud Framework**
 
 *Haubeck, Christopher (1); Lamersdorf, Winfried (1); Fay, Alexander (2)*  
@@ -44,7 +44,7 @@ University of Duisburg-Essen, Germany
 
 *Delgado, Andrea; González, Laura; Calegari, Daniel*  
 Instituto de Computación, Facultad de Ingeniería, Uruguay  
-**Towards support for collaborative business processes and services with social interactions in a collaborative environment**
+**Towards setting up a collaborative environment to support collaborative business processes and services with social interactions**
 
 *Kuster, Christian (1); Masuch, Nils (2); Sivrikaya, Fikret (1)*    
 1: GT-ARC gGmbH, Germany; 2: DAI-Labor, Technische Universität Berlin, Germany  

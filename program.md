@@ -10,7 +10,7 @@ WESOACS 2017 has attracted a large variety of high-quality submissions. From the
 
 - *Delgado, Andrea; González, Laura; Calegari, Daniel*  
 Instituto de Computación, Facultad de Ingeniería, Uruguay  
-**Towards support for collaborative business processes and services with social interactions in a collaborative environment**
+**Towards setting up a collaborative environment to support collaborative business processes and services with social interactions**
 
 - *Feuerlicht, George (1); Beranek, Marek (2); Stastny, Marek (2); Kovar, Vladimir (2)*  
 1: UTS, Australia and VSE, Czech Republic; 2: Unicorn, Prague, Czech Republic  
@@ -56,20 +56,20 @@ The workshop agenda is planned as follows. Please refer to the [ICSOC website](h
 |:------|:----------|
 |       | **Session 1: Design and Architecture** |
 | 09:15 | *Welcome* |
-| 09:30 | George Feuerlicht, *"Architecting Enterprise Applications for Cloud: The Unicorn Cloud Framework"* |
-| 10:00 | Stefan Schoenen, *"Using Risk Patterns to Identify Violations of Data Protection Policies in Cloud Services"* |
+| 09:30 | George Feuerlicht et al., *"Architecting Enterprise Applications for Cloud: The Unicorn Cloud Framework"* |
+| 10:00 | Stefan Schoenen et al., *"Using Risk Patterns to Identify Violations of Data Protection Policies in Cloud Services"* |
 | 10:30 | *Coffee Break* |
 |       | **Session 2: Cyber Physical Systems** |
-| 11:00 | Daniel J. Rosa-Gallardo, *"Sustainable WAsTe Collection (SWAT): One Step towards Smart and Spotless Cities"* |
-| 11:30 | Christopher Haubeck, *"A Knowledge Carrying Service-Component Architecture for Smart Cyber Physical Systems: An Example based on self-documenting production systems"* |
-| 12:00 | Robert Wehlitz, *"Integrating Smart Devices as Business Process Resources – Concept and Software Prototype"* |
+| 11:00 | Daniel J. Rosa-Gallardo et al., *"Sustainable WAsTe Collection (SWAT): One Step towards Smart and Spotless Cities"* |
+| 11:30 | Christopher Haubeck et al., *"A Knowledge Carrying Service-Component Architecture for Smart Cyber Physical Systems: An Example based on self-documenting production systems"* |
+| 12:00 | Robert Wehlitz et al., *"Integrating Smart Devices as Business Process Resources – Concept and Software Prototype"* |
 | 12:30 | *Lunch Break* |
 |       | **Session 3: Smart and Collaborative Environments** |
-| 14:00 | Sebastian Werner, *"Designing Suitable Access Control for Web-Connected Smart Home Platforms"* |
-| 14:30 | Andrea Delgado, *"Towards support for collaborative business processes and services with social interactions in a collaborative environment"* |
-| 15:00 | Christian Kuster, *"Toward an Interactive Mobility Assistant for Multi-Modal Transport in Smart Cities"* |
+| 14:00 | Sebastian Werner et al., *"Designing Suitable Access Control for Web-Connected Smart Home Platforms"* |
+| 14:30 | Andrea Delgado et al., *"Towards setting up a collaborative environment to support collaborative business processes and services with social interactions"* |
+| 15:00 | Christian Kuster et al., *"Toward an Interactive Mobility Assistant for Multi-Modal Transport in Smart Cities"* |
 | 15:30 | *Coffee Break* |
 |       | **Session 4: Lessons and Experiences** |
-| 16:00 | Jörg Lenhard, *"Lessons Learned from Evaluating Workflow Management Systems"* |
-| 16:30 | Maximilian Vogel, *"Experiences on Migrating RESTful Web Services to GraphQL"* |
+| 16:00 | Jörg Lenhard et al., *"Lessons Learned from Evaluating Workflow Management Systems"* |
+| 16:30 | Maximilian Vogel et al., *"Experiences on Migrating RESTful Web Services to GraphQL"* |
 | 17:00 | *Open Discussion and Closing of Workshop* |
